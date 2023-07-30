@@ -1,12 +1,14 @@
 {
-  "russian": {
-    "Demix": {
+  "russian": [
+    {
+      "name": "Demix",
       "description": "reasons to not buy",
       "linkSource": "https://exapmple.url"
     },
-    "Барьер": {
+    {
+      "name": "Барьер",
       "description": "reasons to not buy",
       "linkSource": "https://exapmple.url"
     }
-  }
+  ]
 }
