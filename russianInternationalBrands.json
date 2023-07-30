@@ -1,17 +1,17 @@
 {
   "Russian Brands": [
     {
-      "names": ["Demix"],
+      "name": ["Demix"],
       "description": "reasons to not buy",
       "linkSource": "https://exapmple.url"
     },
     {
-      "names": ["Барьер"],
+      "name": ["Барьер"],
       "description": "reasons to not buy",
       "linkSource": "https://exapmple.url"
     },
     {
-      "names": ["Faberlic", "Фаберлик"],
+      "name": ["Faberlic", "Фаберлик"],
       "description": "reasons to not buy",
       "linkSource": "https://exapmple.url"
     }
