@@ -1,1285 +1,1376 @@
 {
-  "Russian Brands": [
-    {
-      "name": [
-        "Демікс",
-        "Демикс",
-        "Demix"
-      ],
-      "description": "Торгова марка з російським корінням, що належить Спортмастер",
-      "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/",
-      "category": "Спорт"
-    },
-    {
-      "name": [
-        "Бар'єр",
-        "Барьер",
-        "Barrier"
-      ]
-    },
-    {
-      "name": [
-        "Фаберлік",
-        "Фаберлик",
-        "Faberlic"
-      ]
-    },
-    {
-      "name": [
-        "Greenfield",
-        "Грінфілд"
-      ]
-    },
-    {
-      "name": [
-        "Тес",
-        "Тесс",
-        "Tess"
-      ]
-    },
-    {
-      "name": [
-        "Принцеса Нурі",
-        "Принцесса Нури",
-        "Princess Nuri",
-        "ОРІМІ",
-        "Jardin",
-        "жокей",
-        "Принцеса Гіта",
-        "Принцеса Канді",
-        "Принцеса Ява",
-        "Принцеса Ява."
-      ]
-    },
-    {
-      "name": [
-        "Принцеса Гіта",
-        "Принцесса Гита",
-        "Princess Gita"
-      ]
-    },
-    {
-      "name": [
-        "Принцеса Канді",
-        "Принцесса Канди",
-        "Princess Kandi"
-      ]
-    },
-    {
-      "name": [
-        "Принцеса Ява",
-        "Принцесса Ява",
-        "Princess Java"
-      ]
-    },
-    {
-      "name": [
-        "Curtis",
-        "Куртіс",
-        "Май",
-        "Майский",
-        "Лисма",
-        "Coffesso",
-        "Richard",
-        "Richard."
-      ]
-    },
-    {
-      "name": [
-        "Richard",
-        "Річард"
-      ]
-    },
-    {
-      "name": [
-        "Травневий",
-        "Травневый",
-        "Travnevyy"
-      ]
-    },
-    {
-      "name": [
-        "Лісма",
-        "Лисма",
-        "Lisma"
-      ]
-    },
-    {
-      "name": [
-        "Тема",
-        "Tema"
-      ]
-    },
-    {
-      "name": [
-        "Агуша",
-        "Agusha",
-        "АО «Вимм-Билль-Данн»",
-        "Вимм-Билль-Данн",
-        "Домик в деревне",
-        "Веселый Молочник",
-        "Засинайко",
-        "Чудо",
-        "J7",
-        "Джей севен",
-        "Джей севен."
-      ]
-    },
-    {
-      "name": [
-        "Засинайко",
-        "Засыпайко",
-        "Zasynayko"
-      ]
-    },
-    {
-      "name": [
-        "Фіксики",
-        "Фиксики",
-        "Fixies"
-      ]
-    },
-    {
-      "name": [
-        "Некусайка",
-        "Nekusayka"
-      ]
-    },
-    {
-      "name": [
-        "Чудо",
-        "Chudo"
-      ]
-    },
-    {
-      "name": [
-        "Веселий молочник",
-        "Веселый молочник",
-        "Veseliy molochik"
-      ]
-    },
-    {
-      "name": [
-        "Чиста лінія",
-        "Чистая линия",
-        "Chysta liniya"
-      ]
-    },
-    {
-      "name": [
-        "Чорна перлина",
-        "Черная жемчужина",
-        "Chornaya zhemchuzhina"
-      ]
-    },
-    {
-      "name": [
-        "Оксамитні ручки",
-        "Бархатные ручки",
-        "Velvet handles"
-      ]
-    },
-    {
-      "name": [
-        "Рецепти Бабусі Агафі",
-        "Рецепти Бабушки Агафьи",
-        "Babushka Agafi's recipes"
-      ]
-    },
-    {
-      "name": [
-        "Жигулі",
-        "Жигули",
-        "Zhiguli",
-        "Lada",
-        "лада",
-        "ВАЗ",
-        "Samara",
-        "Самара",
-        "Lada Samara",
-        "АвтоВАЗ",
-        "Lada."
-      ]
-    },
-    {
-      "name": [
-        "Балтика",
-        "Baltika"
-      ]
-    },
-    {
-      "name": [
-        "Старий Мельник",
-        "Старый Мельник",
-        "Old Miller"
-      ]
-    },
-    {
-      "name": [
-        "Діоксидин",
-        "Диоксидин",
-        "Dioxidin"
-      ]
-    },
-    {
-      "name": [
-        "Віферон",
-        "Виферон",
-        "Viferon"
-      ]
-    },
-    {
-      "name": [
-        "Єрмоліно",
-        "Ермолино",
-        "Ermolino"
-      ]
-    },
-    {
-      "name": [
-        "Макфа",
-        "Makfa"
-      ]
-    },
-    {
-      "name": [
-        "Суші wok",
-        "Євразія",
-        "Sushi wok",
-        "Суши wok"
-      ]
-    },
-    {
-      "name": [
-        "Кофе Хауз",
-        "Coffee House"
-      ]
-    },
-    {
-      "name": [
-        "Раптор",
-        "Raptor",
-        "Upeco",
-        "Salton",
-        "Gardex",
-        "Racionika",
-        "Breesal",
-        "Forester",
-        "Expel",
-        "Deliss",
-        "Юпеко",
-        "Юпеко."
-      ]
-    },
-    {
-      "name": [
-        "Вухатий нянь",
-        "Big Ear Nanny",
-        "вухастий нянь",
-        "Ушастый нянь",
-        "Ушастый нянь."
-      ]
-    },
-    {
-      "name": [
-        "Sarma",
-        "Сарма",
-        "Невская косметика",
-        "Новый жемчуг",
-        "Сарма."
-      ]
-    },
-    {
-      "name": [
-        "Glade",
-        "Глейд"
-      ]
-    },
-    {
-      "name": [
-        "Gloria Jeans",
-        "Глорія Джинс",
-        "Глория Джинс",
-        "Gloria Jeans."
-      ]
-    },
-    {
-      "name": [
-        "O'stin",
-        "Остін",
-        "Остин",
-        "Sportmaster",
-        "спорт мастер",
-        "спортмастер",
-        "OSTIN",
-        "Torneo",
-        "Joss",
-        "Outventure",
-        "Outventure."
-      ]
-    },
-    {
-      "name": [
-        "Оджи",
-        "Oodji",
-        "Оджі"
-      ]
-    },
-    {
-      "name": [
-        "Henderson",
-        "Гендерсон",
-        "Хендерсон"
-      ]
-    },
-    {
-      "name": [
-        "Respect",
-        "Респект"
-      ]
-    },
-    {
-      "name": [
-        "Чай tess",
-        "Чай ТЕСС",
-        "100 Beauty Recipes",
-        "100 рецептів краси",
-        "100 рецептов красоты.",
-        "Чай Тесс."
-      ]
-    },
-    {
-      "name": [
-        "1C",
-        "1С",
-        "Битрикс 24",
-        "Бітрікс 24",
-        "Bitrix24",
-        "Бітрікс24.",
-        "Бітрікс24"
-      ]
-    },
-    {
-      "name": [
-        "1xbet",
-        "1x бет",
-        "1хбет",
-        "1xbet."
-      ]
-    },
-    {
-      "name": [
-        "2GIS",
-        "2ГИС",
-        "2 ГИС",
-        "2GIS."
-      ]
-    },
-    {
-      "name": [
-        "Aeroflot",
-        "Аэрофлот",
-        "аерофлот",
-        "Aeroflot."
-      ]
-    },
-    {
-      "name": [
-        "Amic"
-      ]
-    },
-    {
-      "name": [
-        "AOS"
-      ]
-    },
-    {
-      "name": [
-        "Aquaphor"
-      ]
-    },
-    {
-      "name": [
-        "Aravia"
-      ]
-    },
-    {
-      "name": [
-        "Atlant",
-        "Атлант",
-        "Atlant."
-      ]
-    },
-    {
-      "name": [
-        "Aurus",
-        "Aurus senat",
-        "аурус",
-        "Aurus."
-      ]
-    },
-    {
-      "name": [
-        "Avito",
-        "Авіто",
-        "Авито",
-        "Avito."
-      ]
-    },
-    {
-      "name": [
-        "Ayya"
-      ]
-    },
-    {
-      "name": [
-        "Belor design"
-      ]
-    },
-    {
-      "name": [
-        "Bielita",
-        "Belita young",
-        "Bielita."
-      ]
-    },
-    {
-      "name": [
-        "Bio World"
-      ]
-    },
-    {
-      "name": [
-        "Bonvida"
-      ]
-    },
-    {
-      "name": [
-        "BORK"
-      ]
-    },
-    {
-      "name": [
-        "Camelot"
-      ]
-    },
-    {
-      "name": [
-        "Carlo Pazolini"
-      ]
-    },
-    {
-      "name": [
-        "Constant Delight"
-      ]
-    },
-    {
-      "name": [
-        "Corso Como"
-      ]
-    },
-    {
-      "name": [
-        "Cotton Club",
-        "Aura",
-        "Аура",
-        "Lure",
-        "Mаditol",
-        "Cotton Club."
-      ]
-    },
-    {
-      "name": [
-        "DIVAGE"
-      ]
-    },
-    {
-      "name": [
-        "DonationAlerts"
-      ]
-    },
-    {
-      "name": [
-        "Dr. Herbarium",
-        "Dr.Herbarium",
-        "Belkosmex",
-        "Доктор Гербаріум",
-        "Dr. Herbarium."
-      ]
-    },
-    {
-      "name": [
-        "Dr.Web"
-      ]
-    },
-    {
-      "name": [
-        "Ecolatier",
-        "Еколатьє",
-        "Ecolatier."
-      ]
-    },
-    {
-      "name": [
-        "Ekonika",
-        "Эконика",
-        "Ekonika."
-      ]
-    },
-    {
-      "name": [
-        "Engy"
-      ]
-    },
-    {
-      "name": [
-        "Estel"
-      ]
-    },
-    {
-      "name": [
-        "Eva Mosaic"
-      ]
-    },
-    {
-      "name": [
-        "Fonbet"
-      ]
-    },
-    {
-      "name": [
-        "Formoza"
-      ]
-    },
-    {
-      "name": [
-        "Forward bank",
-        "БАНК ФОРВАРД",
-        "Forward bank."
-      ]
-    },
-    {
-      "name": [
-        "GEOMA Jewelry"
-      ]
-    },
-    {
-      "name": [
-        "Happy moments",
-        "Хеппі моментс",
-        "Happy moments."
-      ]
-    },
-    {
-      "name": [
-        "Hiberg"
-      ]
-    },
-    {
-      "name": [
-        "Hillway"
-      ]
-    },
-    {
-      "name": [
-        "IEK"
-      ]
-    },
-    {
-      "name": [
-        "Incity",
-        "Інсіті",
-        "Incity."
-      ]
-    },
-    {
-      "name": [
-        "Interskol",
-        "інтерскол",
-        "Интерскол",
-        "Interskol."
-      ]
-    },
-    {
-      "name": [
-        "Jantarika"
-      ]
-    },
-    {
-      "name": [
-        "Jivo",
-        "Jivosite",
-        "Jivo."
-      ]
-    },
-    {
-      "name": [
-        "Kapous"
-      ]
-    },
-    {
-      "name": [
-        "Kari"
-      ]
-    },
-    {
-      "name": [
-        "Kaspersky"
-      ]
-    },
-    {
-      "name": [
-        "Kitfort"
-      ]
-    },
-    {
-      "name": [
-        "Lamarty"
-      ]
-    },
-    {
-      "name": [
-        "Lenta",
-        "Лента",
-        "Lenta."
-      ]
-    },
-    {
-      "name": [
-        "Lingua leo",
-        "лингва лео",
-        "Lingua leo."
-      ]
-    },
-    {
-      "name": [
-        "Losk"
-      ]
-    },
-    {
-      "name": [
-        "Love Republic",
-        "Лав репаблік",
-        "Love Republic."
-      ]
-    },
-    {
-      "name": [
-        "Lukoil"
-      ]
-    },
-    {
-      "name": [
-        "Luxvisage",
-        "Люксвізаж",
-        "Luxvisage."
-      ]
-    },
-    {
-      "name": [
-        "Markell Cosmetics",
-        "Markell",
-        "Маркелл",
-        "Markell Cosmetics."
-      ]
-    },
-    {
-      "name": [
-        "Melon fashion group",
-        "Zarina fashion",
-        "Sela",
-        "Befree",
-        "Мелон фешн груп",
-        "Біфрі",
-        "Мас-маркет Заріна",
-        "Мас-маркет Заріна."
-      ]
-    },
-    {
-      "name": [
-        "Mixit"
-      ]
-    },
-    {
-      "name": [
-        "Mossmore"
-      ]
-    },
-    {
-      "name": [
-        "Moulin Villa"
-      ]
-    },
-    {
-      "name": [
-        "Natura Siberica"
-      ]
-    },
-    {
-      "name": [
-        "Nordway"
-      ]
-    },
-    {
-      "name": [
-        "Norilsk Nickel",
-        "Норильский никель",
-        "Norilsk Nickel."
-      ]
-    },
-    {
-      "name": [
-        "Ola!"
-      ]
-    },
-    {
-      "name": [
-        "OLLIN Professional",
-        "OLLIN",
-        "оллин",
-        "оллін",
-        "OLLIN Professional."
-      ]
-    },
-    {
-      "name": [
-        "Orby"
-      ]
-    },
-    {
-      "name": [
-        "Organic People"
-      ]
-    },
-    {
-      "name": [
-        "Pozis",
-        "Позис",
-        "Pozis."
-      ]
-    },
-    {
-      "name": [
-        "R.O.C.S."
-      ]
-    },
-    {
-      "name": [
-        "Redmond",
-        "Редмонд",
-        "Redmond."
-      ]
-    },
-    {
-      "name": [
-        "Relouis"
-      ]
-    },
-    {
-      "name": [
-        "Romanoff"
-      ]
-    },
-    {
-      "name": [
-        "Romanov",
-        "Beluga Group",
-        "Romanov."
-      ]
-    },
-    {
-      "name": [
-        "Rosneft",
-        "Роснафта",
-        "роснефть",
-        "Rosneft."
-      ]
-    },
-    {
-      "name": [
-        "Ruby Rose"
-      ]
-    },
-    {
-      "name": [
-        "Ruhub",
-        "рухаб",
-        "Ruhub."
-      ]
-    },
-    {
-      "name": [
-        "Rutube",
-        "рутюб",
-        "Rutube."
-      ]
-    },
-    {
-      "name": [
-        "Sanita"
-      ]
-    },
-    {
-      "name": [
-        "Scarlett"
-      ]
-    },
-    {
-      "name": [
-        "Slotex",
-        "Слотекс",
-        "Slotex."
-      ]
-    },
-    {
-      "name": [
-        "Spasta"
-      ]
-    },
-    {
-      "name": [
-        "Sven"
-      ]
-    },
-    {
-      "name": [
-        "Synergetic"
-      ]
-    },
-    {
-      "name": [
-        "Tilda Publishing"
-      ]
-    },
-    {
-      "name": [
-        "Tinkoff"
-      ]
-    },
-    {
-      "name": [
-        "Titbit"
-      ]
-    },
-    {
-      "name": [
-        "Topface"
-      ]
-    },
-    {
-      "name": [
-        "Viatti"
-      ]
-    },
-    {
-      "name": [
-        "Vitek"
-      ]
-    },
-    {
-      "name": [
-        "Vittoria Vicci"
-      ]
-    },
-    {
-      "name": [
-        "VIZIT group"
-      ]
-    },
-    {
-      "name": [
-        "VK",
-        "Вконтакте",
-        "Вконтакті",
-        "Boosty.to",
-        "Boosty.to."
-      ]
-    },
-    {
-      "name": [
-        "Webmoney",
-        "вебмані",
-        "Webmoney."
-      ]
-    },
-    {
-      "name": [
-        "X5 Retail Group",
-        "Перекрёсток",
-        "Societe Minerale",
-        "Карусель",
-        "Чижик",
-        "X5 Retail Group."
-      ]
-    },
-    {
-      "name": [
-        "Алёнка",
-        "Альонка",
-        "Алёнка."
-      ]
-    },
-    {
-      "name": [
-        "Бархатні ручки"
-      ]
-    },
-    {
-      "name": [
-        "Белаз"
-      ]
-    },
-    {
-      "name": [
-        "Белый медведь"
-      ]
-    },
-    {
-      "name": [
-        "Беседа"
-      ]
-    },
-    {
-      "name": [
-        "Бирюса"
-      ]
-    },
-    {
-      "name": [
-        "Витязь",
-        "Віцязь",
-        "Vityas",
-        "Витязь."
-      ]
-    },
-    {
-      "name": [
-        "Вкусно и точка"
-      ]
-    },
-    {
-      "name": [
-        "ГАЗ",
-        "Волга",
-        "Газель",
-        "Газель."
-      ]
-    },
-    {
-      "name": [
-        "Газпром",
-        "Gazprom",
-        "Газпром."
-      ]
-    },
-    {
-      "name": [
-        "ДНС Ритейл",
-        "Dexp",
-        "CSN Retail LLC",
-        "ZET",
-        "DNS",
-        "DNS."
-      ]
-    },
-    {
-      "name": [
-        "Доширак"
-      ]
-    },
-    {
-      "name": [
-        "Дядя Ваня"
-      ]
-    },
-    {
-      "name": [
-        "Жигулёвский пивоваренный завод",
-        "Жигулевское пиво",
-        "Пиво Жигули",
-        "Пиво Жигули."
-      ]
-    },
-    {
-      "name": [
-        "ЗИЛ"
-      ]
-    },
-    {
-      "name": [
-        "Каждый день"
-      ]
-    },
-    {
-      "name": [
-        "Камаз",
-        "Kamaz",
-        "Камаз."
-      ]
-    },
-    {
-      "name": [
-        "КДВ-групп",
-        "Бабкины семечки",
-        "Болжау",
-        "Бонди",
-        "Бомбастер",
-        "Галерея вкусов",
-        "Домашнее чаепитие",
-        "Зеленый попугай",
-        "Золотая чайхана",
-        "Кириешки",
-        "Крут Фрут",
-        "Крошка Лёва",
-        "Мачо Хит",
-        "Маяма",
-        "Ореховичи",
-        "Фруктовичи",
-        "Хрустящий картофель",
-        "Чипсоны",
-        "Яшкино",
-        "Arimo",
-        "Babyfox",
-        "Bottega del Sole",
-        "Djazzy",
-        "El Alino",
-        "Etre",
-        "Forsite",
-        "Golden corn",
-        "Krutonoff",
-        "PinkPie",
-        "3 корочки",
-        "Gardelli",
-        "Gardelli."
-      ]
-    },
-    {
-      "name": [
-        "Кинопоиск"
-      ]
-    },
-    {
-      "name": [
-        "кря-кря"
-      ]
-    },
-    {
-      "name": [
-        "Летуаль",
-        "Л'Этуа́ль",
-        "Лэтуаль",
-        "Dolce Milk",
-        "Дольче Мілк",
-        "Дольче Милк",
-        "Летуаль."
-      ]
-    },
-    {
-      "name": [
-        "Магнит",
-        "Магнит Косметик",
-        "Магнит."
-      ]
-    },
-    {
-      "name": [
-        "Маленькая фея"
-      ]
-    },
-    {
-      "name": [
-        "Мармеладний кіт"
-      ]
-    },
-    {
-      "name": [
-        "Молошка"
-      ]
-    },
-    {
-      "name": [
-        "МТС",
-        "MTC",
-        "МТС."
-      ]
-    },
-    {
-      "name": [
-        "Невская палитра",
-        "Мастер-Класс",
-        "Белые ночи",
-        "Ладога",
-        "Сонет",
-        "Decola",
-        "Цветик",
-        "Я-Художник",
-        "Я-Художник."
-      ]
-    },
-    {
-      "name": [
-        "Однокласники",
-        "ОДНОКЛАССНИКИ",
-        "Odnoklassniki",
-        "Однокласники."
-      ]
-    },
-    {
-      "name": [
-        "ООО «ЛВЛ Эволюшн»"
-      ]
-    },
-    {
-      "name": [
-        "Парижская Коммуна",
-        "Паризька комуна",
-        "ООО 'Технофлекс'",
-        "Парижская Коммуна."
-      ]
-    },
-    {
-      "name": [
-        "Почта россии",
-        "Pochtovye Finansy LLC",
-        "Почта росии",
-        "Почта росии."
-      ]
-    },
-    {
-      "name": [
-        "Промінвестбанк"
-      ]
-    },
-    {
-      "name": [
-        "Пятёрочка",
-        "Пятьорочка",
-        "Пятёрочка."
-      ]
-    },
-    {
-      "name": [
-        "Рецепты бабушки Агафьи",
-        "Babuszka Agafia",
-        "Рецепти бабушки Агафії",
-        "Рецепты бабушки Агафьи."
-      ]
-    },
-    {
-      "name": [
-        "Росатом"
-      ]
-    },
-    {
-      "name": [
-        "Россграм",
-        "росграм",
-        "Rossgram",
-        "Россграм."
-      ]
-    },
-    {
-      "name": [
-        "Россия 1"
-      ]
-    },
-    {
-      "name": [
-        "Россия 24"
-      ]
-    },
-    {
-      "name": [
-        "Савушкин",
-        "Савушкін",
-        "Савушкин."
-      ]
-    },
-    {
-      "name": [
-        "Сады Придонья",
-        "Спелёнок",
-        "NeMoloko",
-        "Золотая Русь",
-        "Мой",
-        "IL PRIMO",
-        "Easy Смузи",
-        "Spelenok",
-        "НеМолоко",
-        "Изи смузи",
-        "Изи смузи."
-      ]
-    },
-    {
-      "name": [
-        "Сбербанк",
-        "Sberbank",
-        "Сбербанк."
-      ]
-    },
-    {
-      "name": [
-        "Ситилинк"
-      ]
-    },
-    {
-      "name": [
-        "Стиль жизни"
-      ]
-    },
-    {
-      "name": [
-        "Суши Мастер",
-        "Sushi Master",
-        "Суши Мастер."
-      ]
-    },
-    {
-      "name": [
-        "ТВОЕ"
-      ]
-    },
-    {
-      "name": [
-        "Техноніколь"
-      ]
-    },
-    {
-      "name": [
-        "тоніка",
-        "Тоника",
-        "тоніка."
-      ]
-    },
-    {
-      "name": [
-        "УАЗ"
-      ]
-    },
-    {
-      "name": [
-        "Фруто няня",
-        "СПАРК-Интерфакс",
-        "Фруто няня."
-      ]
-    },
-    {
-      "name": [
-        "Черний жемчуг",
-        "черный жемчуг",
-        "чорний жемчуг",
-        "чорний жемчуг."
-      ]
-    },
-    {
-      "name": [
-        "Эльдорадо"
-      ]
-    },
-    {
-      "name": [
-        "Яндекс"
-      ]
-    }
-  ]
-}
+    "Russian Brands": [
+      {
+        "name": [
+          "Демікс",
+          "Демикс",
+          "Demix"
+        ],
+        "description": "Торгова марка з російським корінням, що належить Спортмастер",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/",
+        "category": "Спорт"
+      },
+      {
+        "name": [
+          "Бар'єр",
+          "Барʼєр",
+          "Барьер",
+          "Barrier"
+        ]
+      },
+      {
+        "name": [
+          "Фаберлік",
+          "Фаберлик",
+          "Faberlic"
+        ]
+      },
+      {
+        "name": [
+          "Greenfield",
+          "Грінфілд"
+        ]
+      },
+      {
+        "name": [
+          "Тес",
+          "Тесс",
+          "Tess"
+        ]
+      },
+      {
+        "name": [
+          "Принцеса Нурі",
+          "Принцесса Нури",
+          "Princess Nuri",
+          "ОРІМІ",
+          "Jardin",
+          "жокей",
+          "Принцеса Гіта",
+          "Принцеса Канді",
+          "Принцеса Ява",
+          "Принцеса Ява."
+        ]
+      },
+      {
+        "name": [
+          "Принцеса Гіта",
+          "Принцесса Гита",
+          "Princess Gita"
+        ]
+      },
+      {
+        "name": [
+          "Принцеса Канді",
+          "Принцесса Канди",
+          "Princess Kandi"
+        ]
+      },
+      {
+        "name": [
+          "Принцеса Ява",
+          "Принцесса Ява",
+          "Princess Java"
+        ]
+      },
+      {
+        "name": [
+          "Curtis",
+          "Куртіс",
+          "Май",
+          "Майский",
+          "Лисма",
+          "Coffesso",
+          "Richard",
+          "Richard."
+        ]
+      },
+      {
+        "name": [
+          "Richard",
+          "Річард"
+        ]
+      },
+      {
+        "name": [
+          "Травневий",
+          "Травневый",
+          "Travnevyy"
+        ]
+      },
+      {
+        "name": [
+          "Лісма",
+          "Лисма",
+          "Lisma"
+        ]
+      },
+      {
+        "name": [
+          "Тема",
+          "Tema"
+        ]
+      },
+      {
+        "name": [
+          "Агуша",
+          "Agusha",
+          "АО «Вимм-Билль-Данн»",
+          "Вимм-Билль-Данн",
+          "Домик в деревне",
+          "Веселый Молочник",
+          "Засинайко",
+          "Чудо",
+          "J7",
+          "Джей севен",
+          "Джей севен."
+        ]
+      },
+      {
+        "name": [
+          "Засинайко",
+          "Засыпайко",
+          "Zasynayko"
+        ]
+      },
+      {
+        "name": [
+          "Фіксики",
+          "Фиксики",
+          "Fixies"
+        ]
+      },
+      {
+        "name": [
+          "Некусайка",
+          "Nekusayka"
+        ]
+      },
+      {
+        "name": [
+          "Чудо",
+          "Chudo"
+        ]
+      },
+      {
+        "name": [
+          "Веселий молочник",
+          "Веселый молочник",
+          "Veseliy molochik"
+        ]
+      },
+      {
+        "name": [
+          "Чиста лінія",
+          "Чистая линия",
+          "Chysta liniya"
+        ]
+      },
+      {
+        "name": [
+          "Чорна перлина",
+          "Черная жемчужина",
+          "Chornaya zhemchuzhina"
+        ]
+      },
+      {
+        "name": [
+          "Оксамитні ручки",
+          "Бархатные ручки",
+          "Velvet handles"
+        ]
+      },
+      {
+        "name": [
+          "Рецепти Бабусі Агафі",
+          "Рецепти Бабушки Агафьи",
+          "Babushka Agafi's recipes"
+        ]
+      },
+      {
+        "name": [
+          "Жигулі",
+          "Жигули",
+          "Zhiguli",
+          "Lada",
+          "лада",
+          "ВАЗ",
+          "Samara",
+          "Самара",
+          "Lada Samara",
+          "АвтоВАЗ",
+          "Lada."
+        ]
+      },
+      {
+        "name": [
+          "Балтика",
+          "Baltika"
+        ]
+      },
+      {
+        "name": [
+          "Старий Мельник",
+          "Старый Мельник",
+          "Old Miller"
+        ]
+      },
+      {
+        "name": [
+          "Діоксидин",
+          "Диоксидин",
+          "Dioxidin"
+        ]
+      },
+      {
+        "name": [
+          "Віферон",
+          "Виферон",
+          "Viferon"
+        ]
+      },
+      {
+        "name": [
+          "Єрмоліно",
+          "Ермолино",
+          "Ermolino"
+        ]
+      },
+      {
+        "name": [
+          "Макфа",
+          "Makfa"
+        ],
+        "description": "Російська компанія, що виробляє макаронні вироби. Російський підприємець Валерій Юрійович"
+      },
+      {
+        "name": [
+          "Суші wok",
+          "Євразія",
+          "Sushi wok",
+          "Суши wok"
+        ],
+        "description": "Олексій Фурсів, російський підприємець, засновник мережі ресторанів швидкого харчування «Суші Wok» та «Євразія»"
+      },
+      {
+        "name": [
+          "Кофе Хауз",
+          "Coffee House"
+        ],
+        "description": "«Ко́фе Ха́уз» — російська мережа кав'ярень, заснована підприємцем Тимуром Хайрутдіновим. Проводить свою діяльність в Росії (Москва, Санкт-Петербург, Новосибірськ, Єкатеринбург, Казань) та в Україні (Київ). З 2004 року компанія розвиває ресторани японської їжі «Азія Кафе».",
+        "linkSource": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%84%D0%B5_%D0%A5%D0%B0%D1%83%D0%B7"
+      },
+      {
+        "name": [
+          "Раптор",
+          "Raptor",
+          "Upeco",
+          "Salton",
+          "Gardex",
+          "Racionika",
+          "Breesal",
+          "Forester",
+          "Expel",
+          "Deliss",
+          "Юпеко",
+          "Юпеко."
+        ],
+        "description": "Це засоби від комах «Раптор» та косметика для взуття Salton. Ці бренди в кінці 1990-х заснували власники російської компанії Upeco Володимир Чекурда та Олексій Белевцев, писав російський «Коммерсантъ». До повномасштабного вторгнення ці торгові марки були присутні більше ніж у 10 країнах. В Україні ці товари виробляє компанія «Сабріз», яку, за даними YouControl, у листопаді 2010-го заснував Віталій Коваленко. «Сабріз» не пов’язана з Upeco та з громадянами РФ», – написав він Forbes. За його словами, у 2021-му «Сабріз» придбала права на марки в Україні у власність.",
+        "linkSource": "https://forbes.ua/company/zubni-pasti-splat-tushi-ta-pomadi-vivienne-sabo-a-takozh-inshi-chomu-rosiyski-marki-dosi-prodayutsya-v-torgovikh-merezhakh-19012023-11113"
+      },
+      {
+        "name": [
+          "Вухатий нянь",
+          "Big Ear Nanny",
+          "вухастий нянь",
+          "Ушастый нянь",
+          "Ушастый нянь."
+        ]
+      },
+      {
+        "name": [
+          "Sarma",
+          "Сарма",
+          "Невская косметика",
+          "Новый жемчуг",
+          "Сарма."
+        ]
+      },
+      {
+        "name": [
+          "Glade",
+          "Глейд"
+        ]
+      },
+      {
+        "name": [
+          "Gloria Jeans",
+          "Глорія Джинс",
+          "Глория Джинс",
+          "Gloria Jeans."
+        ],
+        "description": "Компанію було засновано в 1988 році як кооператив «Глория» російським підприємцем Володимиром Мельниковим в місті Ростов-на-Дону. В 1991 році відкрито перший магазин. В 1995 році утворено ВАТ «Глория Джинс». Активно розвивається мережа магазинів в різних містах Росії, зокрема в Москві, Єкатеринбурзі, Новосибірську.",
+        "linkSource": "https://uk.wikipedia.org/wiki/Gloria_Jeans"
+      },
+      {
+        "name": [
+          "O'stin",
+          "Остін",
+          "Остин",
+          "Sportmaster",
+          "спорт мастер",
+          "спортмастер",
+          "OSTIN",
+          "Torneo",
+          "Joss",
+          "Outventure",
+          "Outventure."
+        ],
+        "description": "Російська компанія, що виробляє одяг. Повністю належить Спортмастер",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+          "Оджи",
+          "Oodji",
+          "Оджі"
+        ]
+      },
+      {
+        "name": [
+          "Henderson",
+          "Гендерсон",
+          "Хендерсон"
+        ]
+      },
+      {
+        "name": [
+          "Respect",
+          "Респект"
+        ]
+      },
+      {
+        "name": [
+          "Чай tess",
+          "Чай ТЕСС",
+          "100 Beauty Recipes",
+          "100 рецептів краси",
+          "100 рецептов красоты.",
+          "Чай Тесс."
+        ]
+      },
+      {
+        "name": [
+          "1C",
+          "1С",
+          "Битрикс 24",
+          "Бітрікс 24",
+          "Bitrix24",
+          "Бітрікс24.",
+          "Бітрікс24"
+        ]
+      },
+      {
+        "name": [
+          "1xbet",
+          "1x бет",
+          "1хбет",
+          "1xbet."
+        ]
+      },
+      {
+        "name": [
+          "2GIS",
+          "2ГИС",
+          "2 ГИС",
+          "2GIS."
+        ]
+      },
+      {
+        "name": [
+          "Aeroflot",
+          "Аэрофлот",
+          "аерофлот",
+          "Aeroflot."
+        ]
+      },
+      {
+        "name": [
+          "Amic"
+        ]
+      },
+      {
+        "name": [
+          "AOS"
+        ]
+      },
+      {
+        "name": [
+          "Aquaphor"
+        ]
+      },
+      {
+        "name": [
+          "Aravia"
+        ]
+      },
+      {
+        "name": [
+          "Atlant",
+          "Атлант",
+          "Atlant."
+        ]
+      },
+      {
+        "name": [
+          "Aurus",
+          "Aurus senat",
+          "аурус",
+          "Aurus."
+        ]
+      },
+      {
+        "name": [
+          "Avito",
+          "Авіто",
+          "Авито",
+          "Avito."
+        ]
+      },
+      {
+        "name": [
+          "Ayya"
+        ]
+      },
+      {
+        "name": [
+          "Belor design"
+        ]
+      },
+      {
+        "name": [
+          "Bielita",
+          "Belita young",
+          "Bielita."
+        ]
+      },
+      {
+        "name": [
+          "Bio World"
+        ]
+      },
+      {
+        "name": [
+          "Bonvida"
+        ]
+      },
+      {
+        "name": [
+          "BORK"
+        ],
+        "description": "Зате Bork, що просуває себе як німецька техніка, є практично у всіх магазинах, незважаючи на те, що це бренд мережі Електрофлот. Але у Bork є перевага – брутальний, вельми привабливий дизайн і середній ціновий сегмент, тоді як продукція під трьома перерахованими вище марками коштує дуже дешево.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+          "Camelot"
+        ]
+      },
+      {
+        "name": [
+          "Carlo Pazolini"
+        ]
+      },
+      {
+        "name": [
+          "Constant Delight"
+        ]
+      },
+      {
+        "name": [
+          "Corso Como"
+        ]
+      },
+      {
+        "name": [
+          "Cotton Club",
+          "Aura",
+          "Аура",
+          "Lure",
+          "Mаditol",
+          "Cotton Club."
+        ]
+      },
+      {
+        "name": [
+          "DIVAGE"
+        ]
+      },
+      {
+        "name": [
+          "DonationAlerts"
+        ]
+      },
+      {
+        "name": [
+          "Dr. Herbarium",
+          "Dr.Herbarium",
+          "Belkosmex",
+          "Доктор Гербаріум",
+          "Dr. Herbarium."
+        ]
+      },
+      {
+        "name": [
+          "Dr.Web"
+        ]
+      },
+      {
+        "name": [
+          "Ecolatier",
+          "Еколатьє",
+          "Ecolatier."
+        ]
+      },
+      {
+        "name": [
+          "Ekonika",
+          "Эконика",
+          "Ekonika."
+        ]
+      },
+      {
+        "name": [
+          "Engy"
+        ]
+      },
+      {
+        "name": [
+          "Estel"
+        ]
+      },
+      {
+        "name": [
+          "Eva Mosaic"
+        ]
+      },
+      {
+        "name": [
+          "Fonbet"
+        ]
+      },
+      {
+        "name": [
+          "Formoza"
+        ]
+      },
+      {
+        "name": [
+          "Forward bank",
+          "БАНК ФОРВАРД",
+          "Forward bank."
+        ]
+      },
+      {
+        "name": [
+          "GEOMA Jewelry"
+        ]
+      },
+      {
+        "name": [
+          "Happy moments",
+          "Хеппі моментс",
+          "Happy moments."
+        ]
+      },
+      {
+        "name": [
+          "Hiberg"
+        ]
+      },
+      {
+        "name": [
+          "Hillway"
+        ]
+      },
+      {
+        "name": [
+          "IEK"
+        ]
+      },
+      {
+        "name": [
+          "Incity",
+          "Інсіті",
+          "Incity."
+        ]
+      },
+      {
+        "name": [
+          "Interskol",
+          "інтерскол",
+          "Интерскол",
+          "Interskol."
+        ]
+      },
+      {
+        "name": [
+          "Jantarika"
+        ]
+      },
+      {
+        "name": [
+          "Jivo",
+          "Jivosite",
+          "Jivo."
+        ]
+      },
+      {
+        "name": [
+          "Kapous"
+        ]
+      },
+      {
+        "name": [
+          "Kari"
+        ]
+      },
+      {
+        "name": [
+          "Kaspersky"
+        ]
+      },
+      {
+        "name": [
+          "Kitfort"
+        ]
+      },
+      {
+        "name": [
+          "Lamarty"
+        ]
+      },
+      {
+        "name": [
+          "Lenta",
+          "Лента",
+          "Lenta."
+        ]
+      },
+      {
+        "name": [
+          "Lingua leo",
+          "лингва лео",
+          "Lingua leo."
+        ]
+      },
+      {
+        "name": [
+          "Losk"
+        ]
+      },
+      {
+        "name": [
+          "Love Republic",
+          "Лав репаблік",
+          "Love Republic."
+        ]
+      },
+      {
+        "name": [
+          "Lukoil"
+        ]
+      },
+      {
+        "name": [
+          "Luxvisage",
+          "Люксвізаж",
+          "Luxvisage."
+        ]
+      },
+      {
+        "name": [
+          "Markell Cosmetics",
+          "Markell",
+          "Маркелл",
+          "Markell Cosmetics."
+        ]
+      },
+      {
+        "name": [
+          "Melon fashion group",
+          "Zarina fashion",
+          "Sela",
+          "Befree",
+          "Мелон фешн груп",
+          "Біфрі",
+          "Мас-маркет Заріна",
+          "Мас-маркет Заріна."
+        ]
+      },
+      {
+        "name": [
+          "Mixit"
+        ]
+      },
+      {
+        "name": [
+          "Mossmore"
+        ]
+      },
+      {
+        "name": [
+          "Moulin Villa"
+        ]
+      },
+      {
+        "name": [
+          "Natura Siberica"
+        ],
+        "description": "Засоби з догляду за шкірою Natura Siberica. засновані в РФ. Російська компанія, що виробляє косметику на основі сибірських трав",
+        "linkSource": "https://forbes.ua/company/zubni-pasti-splat-tushi-ta-pomadi-vivienne-sabo-a-takozh-inshi-chomu-rosiyski-marki-dosi-prodayutsya-v-torgovikh-merezhakh-19012023-11113"
+      },
+      {
+        "name": [
+          "Nordway"
+        ]
+      },
+      {
+        "name": [
+          "Norilsk Nickel",
+          "Норильский никель",
+          "Norilsk Nickel."
+        ]
+      },
+      {
+        "name": [
+          "Ola!"
+        ]
+      },
+      {
+        "name": [
+          "OLLIN Professional",
+          "OLLIN",
+          "оллин",
+          "оллін",
+          "OLLIN Professional."
+        ]
+      },
+      {
+        "name": [
+          "Orby"
+        ]
+      },
+      {
+        "name": [
+          "Organic People"
+        ]
+      },
+      {
+        "name": [
+          "Pozis",
+          "Позис",
+          "Pozis."
+        ]
+      },
+      {
+        "name": [
+          "R.O.C.S."
+        ]
+      },
+      {
+        "name": [
+          "Redmond",
+          "Редмонд",
+          "Redmond."
+        ],
+        "description": "Російська компанія, що виробляє побутову техніку",
+        "linkSource": "https://forbes.ua/company/zubni-pasti-splat-tushi-ta-pomadi-vivienne-sabo-a-takozh-inshi-chomu-rosiyski-marki-dosi-prodayutsya-v-torgovikh-merezhakh-19012023-11113"
+      },
+      {
+        "name": [
+          "Vivienne Sabo",
+          "Вивьен Сабо",
+          "Вів'єн Сабо"
+        ],
+        "description": "«Вів'єн Сабо» – це недорога російська косметика. Виробляють її у Швейцарії.",
+        "linkSource": "https://forbes.ua/company/zubni-pasti-splat-tushi-ta-pomadi-vivienne-sabo-a-takozh-inshi-chomu-rosiyski-marki-dosi-prodayutsya-v-torgovikh-merezhakh-19012023-11113"
+      },
+      {
+        "name": [
+          "Relouis"
+        ]
+      },
+      {
+        "name": [
+          "Splat",
+          "Сплат"
+        ],
+        "description": "Зубна паста яку для українського ринку виробляють у Болгарії. У 2000-х роках цю марку заснував російський підприємець Євген Дьомін. Ексцентричний бізнесмен, який щомісяця пише покупцям листи, які вкладають до упаковки. В 2019-му в інтервʼю російському виданню Rb.ru він казав, що його компанія завжди в будь-якій країні за межами Росії відкрито розповідає про те, хто стоїть за маркою.",
+        "linkSource": "https://forbes.ua/company/zubni-pasti-splat-tushi-ta-pomadi-vivienne-sabo-a-takozh-inshi-chomu-rosiyski-marki-dosi-prodayutsya-v-torgovikh-merezhakh-19012023-11113"
+      },
+      {
+        "name": [
+          "Romanoff"
+        ]
+      },
+      {
+        "name": [
+          "Romanov",
+          "Beluga Group",
+          "Romanov."
+        ]
+      },
+      {
+        "name": [
+          "Rosneft",
+          "Роснафта",
+          "роснефть",
+          "Rosneft."
+        ]
+      },
+      {
+        "name": [
+          "Ruby Rose"
+        ]
+      },
+      {
+        "name": [
+          "Ruhub",
+          "рухаб",
+          "Ruhub."
+        ]
+      },
+      {
+        "name": [
+          "Rutube",
+          "рутюб",
+          "Rutube."
+        ]
+      },
+      {
+        "name": [
+          "Sanita"
+        ]
+      },
+      {
+        "name": [
+          "Scarlett"
+        ],
+        "description": "Торгова марка Scarlett (належить компанії Arima Holding Corp., Спільному дітищу китайців і росіян), виробник найбільш купованих в СНД чайників, зареєстрована в Англії в 1996 році і названа на честь Скарлетт О'Хара Гамільтон Кеннеді Батлер. Цільова аудиторія – жінки, господині з романтичними душами, що знаються на класичній попсовій літературі.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+          "Rolsen"
+        ],
+        "description": "Rolsen – марка, придумана в 1995 році випускником МФТІ Сергієм Білоусовим – використовується для телевізорів, домашніх кінотеатрів, моніторів, мобільних телефонів і пральних машин. Але Rolsen ніколи не розмінював своє ім'я на праски. Починала компанія зі збірки телевізорів LG, а тепер випускає і власні на заводі у Фрязіно (деталі закуповують у Південно-Східній Азії). Останнім часом найбільш успішно у Rolsen продаються монітори й телевізори, яких вона випускає по 150 тис. і 240 тис. штук на рік відповідно. На тому ж заводі в підмосковному Фрязіно робляться всі 20 -, 21 – і 25-дюймові телевізори LG, що продаються в СНД.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+            "Kaiser"
+        ],
+        "description": "Kaiser, що працює на ринку як німецька компанія з середини 90-х і придумана батьком-засновником Павлом Логиновим. Ця торгова марка успішно насичує ринок великогабаритною кухонною технікою. Її пан Логінов робить на тому ж заводі в Польщі, який випускає і продукцію під маркою Hansa.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+            "Techno",
+            "Trony",
+            "Elenberg"
+        ],
+        "description": "Марки Techno, Trony і Elenberg теж жодним чином не західні. Вони належать великим роздрібним мережам Техносила, Мир і Ельдорадо відповідно. Вони і присутні тільки в магазинах цих мереж. Ніякого Еленберг, скажімо, в Техносилі знайти не можна.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+          "Slotex",
+          "Слотекс",
+          "Slotex."
+        ]
+      },
+      {
+        "name": [
+          "Spasta"
+        ]
+      },
+      {
+        "name": [
+          "Sven"
+        ]
+      },
+      {
+        "name": [
+          "Synergetic"
+        ]
+      },
+      {
+        "name": [
+          "Tilda Publishing"
+        ]
+      },
+      {
+        "name": [
+          "Tinkoff"
+        ]
+      },
+      {
+        "name": [
+          "Titbit"
+        ]
+      },
+      {
+        "name": [
+          "Topface"
+        ]
+      },
+      {
+        "name": [
+          "Viatti"
+        ]
+      },
+      {
+        "name": [
+          "Vitek"
+        ],
+        "description": "Російська компанія, що виробляє побутову техніку. Президент компанії Голдер Електронікс і власник бренду Vitek Андрій Дерев'янченко на старті своєї кар'єри поєднував торгівлю технікою з роботою охоронцем. П'ять років тому він зареєстрував в Австрії торговельну марку Vitek. Місце реєстрації дозволяє Vitek писати на коробках Виробник: Австрія. Техніка пана Дерев'янченко спочатку позиціонувалася як якісний товар за ціною на 10-15% дешевше, ніж аналогічний, але відомих марок. Однак пізніше компанія змогла собі дозволити створити власне дизайн-бюро для розробки унікальних моделей техніки. Зараз пан Дерев'янченко пишається розробленим цього року чайником з мигаючими по периметру червоними лампочками, що світяться блакитним неоновим світлом.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+          "Vittoria Vicci"
+        ]
+      },
+      {
+        "name": [
+          "VIZIT group"
+        ]
+      },
+      {
+        "name": [
+          "VK",
+          "Вконтакте",
+          "Вконтакті",
+          "Boosty.to",
+          "Boosty.to."
+        ]
+      },
+      {
+        "name": [
+          "Webmoney",
+          "вебмані",
+          "Webmoney."
+        ]
+      },
+      {
+        "name": [
+          "X5 Retail Group",
+          "Перекрёсток",
+          "Societe Minerale",
+          "Карусель",
+          "Чижик",
+          "X5 Retail Group."
+        ]
+      },
+      {
+        "name": [
+          "Алёнка",
+          "Альонка",
+          "Алёнка."
+        ]
+      },
+      {
+        "name": [
+          "Бархатні ручки"
+        ]
+      },
+      {
+        "name": [
+          "Белаз"
+        ]
+      },
+      {
+        "name": [
+          "Белый медведь"
+        ]
+      },
+      {
+        "name": [
+          "Беседа"
+        ]
+      },
+      {
+        "name": [
+          "Бирюса"
+        ]
+      },
+      {
+        "name": [
+          "Витязь",
+          "Віцязь",
+          "Vityas",
+          "Витязь."
+        ]
+      },
+      {
+        "name": [
+          "Vigor"
+        ],
+        "description": "Євген Назаров, засновник менш відомої марки побутової техніки Vigor (утворено від англійського vigorous – мужній, сильний), вона зареєстрована в Угорщині. У Москві офіс Vigor розташовується в орендованій у заводу Вимпел кімнаті, де сидять 20 людей, стоять всі моделі побутової техніки та приємно пахне борщем із заводської їдальні.",
+        "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/"
+      },
+      {
+        "name": [
+          "ГАЗ",
+          "Волга",
+          "Газель",
+          "Газель."
+        ]
+      },
+      {
+        "name": [
+          "Газпром",
+          "Gazprom",
+          "Газпром."
+        ]
+      },
+      {
+        "name": [
+          "ДНС Ритейл",
+          "Dexp",
+          "CSN Retail LLC",
+          "ZET",
+          "DNS",
+          "DNS."
+        ]
+      },
+      {
+        "name": [
+          "Доширак"
+        ]
+      },
+      {
+        "name": [
+          "Дядя Ваня"
+        ]
+      },
+      {
+        "name": [
+          "Жигулёвский пивоваренный завод",
+          "Жигулевское пиво",
+          "Пиво Жигули",
+          "Пиво Жигули."
+        ]
+      },
+      {
+        "name": [
+          "ЗИЛ"
+        ]
+      },
+      {
+        "name": [
+          "Каждый день"
+        ]
+      },
+      {
+        "name": [
+          "Камаз",
+          "Kamaz",
+          "Камаз."
+        ]
+      },
+      {
+        "name": [
+          "КДВ-групп",
+          "Бабкины семечки",
+          "Болжау",
+          "Бонди",
+          "Бомбастер",
+          "Галерея вкусов",
+          "Домашнее чаепитие",
+          "Зеленый попугай",
+          "Золотая чайхана",
+          "Кириешки",
+          "Крут Фрут",
+          "Крошка Лёва",
+          "Мачо Хит",
+          "Маяма",
+          "Ореховичи",
+          "Фруктовичи",
+          "Хрустящий картофель",
+          "Чипсоны",
+          "Яшкино",
+          "Arimo",
+          "Babyfox",
+          "Bottega del Sole",
+          "Djazzy",
+          "El Alino",
+          "Etre",
+          "Forsite",
+          "Golden corn",
+          "Krutonoff",
+          "PinkPie",
+          "3 корочки",
+          "Gardelli",
+          "Gardelli."
+        ]
+      },
+      {
+        "name": [
+          "Кинопоиск"
+        ]
+      },
+      {
+        "name": [
+          "кря-кря"
+        ]
+      },
+      {
+        "name": [
+          "Летуаль",
+          "Л'Этуа́ль",
+          "Лэтуаль",
+          "Dolce Milk",
+          "Дольче Мілк",
+          "Дольче Милк",
+          "Летуаль."
+        ]
+      },
+      {
+        "name": [
+          "Магнит",
+          "Магнит Косметик",
+          "Магнит."
+        ]
+      },
+      {
+        "name": [
+          "Маленькая фея"
+        ]
+      },
+      {
+        "name": [
+          "Мармеладний кіт"
+        ]
+      },
+      {
+        "name": [
+          "Молошка"
+        ]
+      },
+      {
+        "name": [
+          "МТС",
+          "MTC",
+          "МТС."
+        ]
+      },
+      {
+        "name": [
+          "Невская палитра",
+          "Мастер-Класс",
+          "Белые ночи",
+          "Ладога",
+          "Сонет",
+          "Decola",
+          "Цветик",
+          "Я-Художник",
+          "Я-Художник."
+        ]
+      },
+      {
+        "name": [
+          "Однокласники",
+          "ОДНОКЛАССНИКИ",
+          "Odnoklassniki",
+          "Однокласники."
+        ]
+      },
+      {
+        "name": [
+          "ООО «ЛВЛ Эволюшн»"
+        ]
+      },
+      {
+        "name": [
+          "Парижская Коммуна",
+          "Паризька комуна",
+          "ООО 'Технофлекс'",
+          "Парижская Коммуна."
+        ]
+      },
+      {
+        "name": [
+          "Почта россии",
+          "Pochtovye Finansy LLC",
+          "Почта росии",
+          "Почта росии."
+        ]
+      },
+      {
+        "name": [
+          "Промінвестбанк"
+        ]
+      },
+      {
+        "name": [
+          "Пятёрочка",
+          "Пятьорочка",
+          "Пятёрочка."
+        ]
+      },
+      {
+        "name": [
+          "Рецепты бабушки Агафьи",
+          "Babuszka Agafia",
+          "Рецепти бабушки Агафії",
+          "Рецепты бабушки Агафьи."
+        ]
+      },
+      {
+        "name": [
+          "Росатом"
+        ]
+      },
+      {
+        "name": [
+          "Россграм",
+          "росграм",
+          "Rossgram",
+          "Россграм."
+        ]
+      },
+      {
+        "name": [
+          "Россия 1"
+        ]
+      },
+      {
+        "name": [
+          "Россия 24"
+        ]
+      },
+      {
+        "name": [
+          "Савушкин",
+          "Савушкін",
+          "Савушкин."
+        ]
+      },
+      {
+        "name": [
+          "Сады Придонья",
+          "Спелёнок",
+          "NeMoloko",
+          "Золотая Русь",
+          "Мой",
+          "IL PRIMO",
+          "Easy Смузи",
+          "Spelenok",
+          "НеМолоко",
+          "Изи смузи",
+          "Изи смузи."
+        ]
+      },
+      {
+        "name": [
+          "Сбербанк",
+          "Sberbank",
+          "Сбербанк."
+        ]
+      },
+      {
+        "name": [
+          "Ситилинк"
+        ]
+      },
+      {
+        "name": [
+          "Стиль жизни"
+        ]
+      },
+      {
+        "name": [
+          "Суши Мастер",
+          "Sushi Master",
+          "Суши Мастер."
+        ]
+      },
+      {
+        "name": [
+          "ТВОЕ"
+        ]
+      },
+      {
+        "name": [
+          "Техноніколь"
+        ]
+      },
+      {
+        "name": [
+          "тоніка",
+          "Тоника",
+          "тоніка."
+        ]
+      },
+      {
+        "name": [
+          "УАЗ"
+        ]
+      },
+      {
+        "name": [
+          "Фруто няня",
+          "СПАРК-Интерфакс",
+          "Фруто няня."
+        ]
+      },
+      {
+        "name": [
+          "Черний жемчуг",
+          "черный жемчуг",
+          "чорний жемчуг",
+          "чорний жемчуг."
+        ]
+      },
+      {
+        "name": [
+          "Эльдорадо"
+        ]
+      },
+      {
+        "name": [
+          "Яндекс"
+        ]
+      },
+      {
+        "name": [
+          "AKIRA",
+          "ERISSON",
+          "PROLOGY",
+          "POLAR",
+          "KENTATSU",
+          "MILAGRO",
+          "Kaffa Industries",
+
+        ]
+      },
+      {
+        "name": [
+          "Erich Krause"
+        ]
+      },
+      {
+        "name": [
+          "Gipfel"
+        ]
+      },
+      {
+        "name": [
+          "Grand di Pasta"
+        ],
+        "description": "Російська компанія Макфа запустила макарони з типово італійським ім'ям Grand di Pasta.",
+      }
+    ]
+  }
