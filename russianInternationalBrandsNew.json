@@ -1,5 +1,15 @@
 {
     "Russian Brands": [
+    {
+      "name": [
+        "Демікс",
+        "Демикс",
+        "Demix"
+      ],
+      "description": "Торгова марка з російським корінням, що належить Спортмастер",
+      "linkSource": "https://tyzhden.ua/iak-khytri-katsapy-naivnykh-khokhliv-rozvodiat/",
+      "category": "Спорт"
+    },
       {
         "name": [
           "Бар'єр",
