@@ -1,8 +1,14 @@
 [
   {
-    name: "Russian Brands",
-    enabled: true,
-    names: [],
-    emoji: "❌ "
+    "name": "Russian Brands",
+    "enabled": true,
+    "names": [],
+    "emoji": "❌ "
+  },
+  {
+    "name": "NAZK list of russia sponsors",
+    "enabled": true,
+    "names": [],
+    "emoji": "🟨 "
   }
 ]
