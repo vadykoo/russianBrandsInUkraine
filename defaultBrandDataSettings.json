@@ -10,5 +10,11 @@
     "enabled": true,
     "names": [],
     "emoji": "🟨 "
+  },
+  {
+  "name": "Cachback UA",
+  "enabled": true,
+  "names": [],
+  "emoji": "⭐ "
   }
 ]
